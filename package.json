@@ -1,5 +1,5 @@
 {
-  "name": "easymath",
+  "name": "magic-math",
   "version": "1.0.0",
   "description": "\"All mathmetical functions and operations\"",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jitendrataxxo/easyMath.git"
+    "url": "git+https://github.com/jitendrataxxo/magicMath.git"
   },
   "author": "jeet7394@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jitendrataxxo/easyMath/issues"
+    "url": "https://github.com/jitendrataxxo/magicMath/issues"
   },
-  "homepage": "https://github.com/jitendrataxxo/easyMath#readme"
+  "homepage": "https://github.com/jitendrataxxo/magicMath#readme"
 }
