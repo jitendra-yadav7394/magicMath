@@ -1,0 +1,19 @@
+{
+  "name": "easymath",
+  "version": "1.0.0",
+  "description": "\"All mathmetical functions and operations\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitendrataxxo/easyMath.git"
+  },
+  "author": "jeet7394@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitendrataxxo/easyMath/issues"
+  },
+  "homepage": "https://github.com/jitendrataxxo/easyMath#readme"
+}
